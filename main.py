@@ -657,9 +657,6 @@ def main(filename, outputName, keyFrame, startFrame, lastFrame, tempo, key,
 #main("ngnl.mp4","Test2/ngnl_translated",0,4000,60000,147,4,"No Game No Life OP","Anime Song",50)
 #main("coffin_dance.mp4","Test2/cd_translated",0,4000,60000,126,0,"CD","Tetris Song",50)
 
-# Worrks kinda well
+# Works kinda well
 #main("hmc.mp4","Test2/hmc_translated",6000,6000,60000,152,0,"HMC","???",100)
 main("unravel.mp4","Test2/unravel_translated",0,0,60000,129,0,"Unravel","Animenz",200)
-
-# Note boundaries
-# Key Assumptions
